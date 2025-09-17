@@ -5,8 +5,7 @@ I love Python and I am interested in ML/AI, but I also have a growing interestin
 I like to read, run, martial arts, pickeball (my newest hobby) and I love to dance.
 
 ## GitHub stats:
-![Murilo's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=HitMonrillo&combine_all_yearly_contributions=true)
-
+[![Murilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=HitMonrillo)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HitMonrillo/HitMonrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
