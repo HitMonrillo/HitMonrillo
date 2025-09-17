@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-About me:
+# About me:
 I'm Murilo, currently a research assistant at the Blueberry Breeding lab at the University of Florida. I love Python and I am interested in ML/AI, but I also have a growing interesting in Full-Stack Development.
 I like to read, run, martial arts, pickeball (my newest hobby) and I love to dance.
 <!--
