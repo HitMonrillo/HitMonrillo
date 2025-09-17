@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murilo</h1>
-<h3 align="center">A Machine Learning Engineer from the University of Florida</h3>
+<h2 align="center">A Machine Learning Engineer from the University of Florida</h3>
 
 - 🌱 I’m currently learning **JavaScript, HTML/CSS, React, and How to run a Marathon with the least training possible**
 
