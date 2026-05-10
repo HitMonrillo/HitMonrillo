@@ -11,7 +11,7 @@ I'm a Brazilian CS student at UF, heading to São Paulo this summer to work on b
 - 🔭 Currently working on **C#/.NET, AWS (SQS, S3, Data Lakes), and distributed systems patterns**
 - 🌱 Learning Leetcode, System design, and best industry practices
 - ⚽ Off-keyboard: soccer (or futbol), MMA, and best places to travel
-- 🗣️ Português, English — happy to chat in either
+- 🗣️ Português, English, Spanish, and currently learning German!
 - 📫 Reach me on LinkedIn
 
 # 📊 GitHub Stats:
