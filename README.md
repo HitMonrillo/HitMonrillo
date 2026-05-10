@@ -12,11 +12,13 @@ I'm a Brazilian CS student at UF, heading to São Paulo this summer to work on b
 - 🌱 Learning Leetcode, System design, and best industry practices
 - ⚽ Off-keyboard: soccer (or futbol), MMA, and best places to travel
 - 🗣️ Português, English, Spanish, and currently learning German!
-- 📫 Reach me on LinkedIn
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/murilomatos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="murilomatos" height="30" width="40" /></a>
+</p>
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.shion.dev/api?username=HitMonrillo&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://streak-stats.demolab.com/?user=HitMonrillo&theme=dark&hide_border=false)
 
