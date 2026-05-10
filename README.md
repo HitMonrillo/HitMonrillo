@@ -25,7 +25,3 @@ I'm a Brazilian CS student at UF, heading to São Paulo this summer to work on b
 ### ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-[![](https://komarev.com/ghpvc/?username=HitMonrillo&icon=0&color=0)](https://visitcount.itsvg.in)
