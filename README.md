@@ -6,7 +6,7 @@
 
 ### About me
 
-I'm a Brazilian CS student at UF, heading to São Paulo this summer to work on backend systems at BTG Pactual — building scalable APIs and microservices in C# on AWS.
+I'm a Brazilian CS student at UF, heading to São Paulo this summer to work on backend systems at BTG Pactual building scalable APIs and microservices in C# on AWS.
 
 - 🔭 Currently working on **C#/.NET, AWS (SQS, S3, Data Lakes), and distributed systems patterns**
 - 🌱 Learning Leetcode, System design, and best industry practices
